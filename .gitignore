@@ -1,0 +1,4 @@
+/libs/**/*.*
+!/libs/emicon/fonts/*.*
+!/libs/emicon/emicon.css
+!/libs/jquery/dist/jquery.min.js

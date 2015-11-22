@@ -1,0 +1,25 @@
+{
+  "name": "emicon",
+  "homepage": "http://cloudenergy.github.io/emicon",
+  "authors": [
+    "realm <realm.x@hotmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "cloudenergy",
+    "emicon",
+    "iconfont"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1",
+    "emicon": "~1.0.0"
+  }
+}
