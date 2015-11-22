@@ -1,10 +1,10 @@
 {
   "name": "emicon",
-  "homepage": "https://github.com/cloudenergy/emicon",
+  "homepage": "http://cloudenergy.github.io/emicon",
   "authors": [
     "realm <realm.x@hotmail.com>"
   ],
-  "description": "cloudenergy iconfont",
+  "description": "cloudenergy, emicon, iconfont",
   "main": [
     "emicon.css",
     "fonts/emicon.eot",
@@ -12,16 +12,13 @@
     "fonts/emicon.ttf",
     "fonts/emicon.woff"
   ],
-  "dependencies": {
-    "jquery": ">= 1.9.1"
-  },
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "cloudenergy",
-    "iconfont",
-    "emicon"
+    "emicon",
+    "iconfont"
   ],
   "ignore": [
     "**/.*",
