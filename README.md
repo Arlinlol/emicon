@@ -17,8 +17,3 @@ bower install emicon
 <!--use icon-->
 <i class="em em-home"></i>
 ```
-
-## Version
-
-### 1.0.0
-- create icons
