@@ -1,5 +1,5 @@
 # EMICON
-> the icons build from [iconfont.cn](http://iconfont.cn), use in [cloudenergy.me](http://cloudenergy.me)
+> the icons build from [iconfont.cn](http://iconfont.cn) and constant adding, to use in [cloudenergy.me](http://cloudenergy.me)
 
 ## Homepage
 [http://cloudenergy.github.io/emicon](http://cloudenergy.github.io/emicon)
