@@ -897,6 +897,7 @@ ul, ol { list-style: none; }
 }
 .icon_lists{
     margin-right: -3px;
+    margin-bottom: 0;
     padding: 0;
 }
 .icon_lists li{
