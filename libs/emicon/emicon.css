@@ -68,3 +68,7 @@
 .em-send:before { content: "\e633"; }
 .em-dollor:before { content: "\e634"; }
 .em-sun:before { content: "\e635"; }
+.em-snow:before { content: "\e620"; }
+.em-fire:before { content: "\e621"; }
+.em-clear-wet:before { content: "\e636"; }
+.em-ventilation:before { content: "\e637"; }
